@@ -1,0 +1,4 @@
+.vs/
+x64/
+CoffLoader/x64/
+*.obj
